@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/orchestra-portal/static/css/main.f9e580ce.css",
-    "main.js": "/orchestra-portal/static/js/main.ff512695.js",
+    "main.js": "/orchestra-portal/static/js/main.18cf015d.js",
     "static/media/david_segal.jpg": "/orchestra-portal/static/media/david_segal.913e5573e3a589add51f.jpg",
     "static/media/logo.png": "/orchestra-portal/static/media/logo.946fd082051e18a18398.png",
     "index.html": "/orchestra-portal/index.html",
     "main.f9e580ce.css.map": "/orchestra-portal/static/css/main.f9e580ce.css.map",
-    "main.ff512695.js.map": "/orchestra-portal/static/js/main.ff512695.js.map"
+    "main.18cf015d.js.map": "/orchestra-portal/static/js/main.18cf015d.js.map"
   },
   "entrypoints": [
     "static/css/main.f9e580ce.css",
-    "static/js/main.ff512695.js"
+    "static/js/main.18cf015d.js"
   ]
 }
